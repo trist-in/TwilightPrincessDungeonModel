@@ -14,7 +14,7 @@ Accuracy ✅:
 
 Loss ❌:
 
-![image](https://github.com/user-attachments/assets/d2da1725-589d-4cd1-8f3b-7d467b19ba20)
+<img src = (https://github.com/user-attachments/assets/d2da1725-589d-4cd1-8f3b-7d467b19ba20) width = "48">
 
 This model will currently reach about a 97% accuracy rate, but here are some suggestions:
 For guessing Temple of Time, input images from the HD version of the game.
