@@ -7,6 +7,7 @@ I added the data I used to this repository, but I suggest you create your own. I
 Some things I could change is to add more data as well as keep the data as consistent as possible.
 
 I plan to come back to this model, but here are the current metrics. The x-axis represents the number of epochs I used (20).
+
 Accuracy ✅:
 
 ![image](https://github.com/user-attachments/assets/21862041-666a-46db-bd6f-9442b8d2e25c)
