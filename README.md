@@ -8,8 +8,11 @@ Some things I could change is to add more data as well as keep the data as consi
 
 I plan to come back to this model, but here are the current metrics. The x-axis represents the number of epochs I used (20).
 Accuracy ✅:
+
 ![image](https://github.com/user-attachments/assets/21862041-666a-46db-bd6f-9442b8d2e25c)
+
 Loss ❌:
+
 ![image](https://github.com/user-attachments/assets/d2da1725-589d-4cd1-8f3b-7d467b19ba20)
 
 This model will currently reach about a 97% accuracy rate, but here are some suggestions:
